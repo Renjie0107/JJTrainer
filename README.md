@@ -33,7 +33,7 @@ or git clone it straightly
 ![image](./readme/competition1.png)
 
 来自：https://www.kaggle.com/c/digit-recognizer
-```ipynb
+```
 #导库
 import numpy as np
 import pandas as pd
