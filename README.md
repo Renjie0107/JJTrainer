@@ -30,7 +30,7 @@ or git clone it straightly
 ## CV
 
 参考比赛 Digit-Recognizer
-![image]('./readme/competition1.png)
+![image](./readme/competition1.png)
 
 来自：https://www.kaggle.com/c/digit-recognizer
 ```ipynb
@@ -147,8 +147,10 @@ if __name__ == '__main__':
 
 模型训练过程：
 ![image](./readme/train_process1.png)
+##
 模型文件结构:
 ![image](./readme/dir_structure.png)
+##
 模型训练参数一览：
 ```
 #模型参数
